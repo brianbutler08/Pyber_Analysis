@@ -18,9 +18,10 @@ My colleague, Omar, and I have been working on a series of DataFrame summaries o
 - Average fare per ride
 - Average fare per driver
 
-After the DataFrame was complete, we were asked to create a line chart that displayed total fare by each city type over a four month timeframe. 
-
+After the DataFrame was complete, we were asked to create a line chart that displayed total fare by each city type over a four month timeframe. This will allow management to get a clear understanding about the relative amount of revenue produced by each of the city types when compared to each other and how these revenues might change over time.
 
 # Results
+
+
 
 # Summary
