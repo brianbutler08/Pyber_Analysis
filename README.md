@@ -24,5 +24,6 @@ After the DataFrame was complete, we were asked to create a line chart that disp
 
 ![multiple line chart](https://github.com/brianbutler08/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+![Final DataFrame](https://github.com/brianbutler08/Pyber_Analysis/blob/main/analysis/Final%20DataFrame.png)
 
 # Summary
